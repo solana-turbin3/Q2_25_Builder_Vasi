@@ -7,3 +7,6 @@
 [submodule "vault-anchor"]
 	path = vault-anchor
 	url = https://github.com/dev-vasi/vault-anchor.git
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/dev-vasi/anchor-escrow.git
