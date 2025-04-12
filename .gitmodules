@@ -1,3 +1,6 @@
 [submodule "Turbin3-Prereqs"]
 	path = Turbin3-Prereqs
 	url = https://github.com/dev-vasi/Turbin3Proj-Prereqs.git
+[submodule "Turbin3-Solana-Starter"]
+	path = Turbin3-Solana-Starter
+	url = https://github.com/dev-vasi/Turbin3-Solana-Starter.git
