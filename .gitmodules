@@ -4,3 +4,6 @@
 [submodule "Turbin3-Solana-Starter"]
 	path = Turbin3-Solana-Starter
 	url = https://github.com/dev-vasi/Turbin3-Solana-Starter.git
+[submodule "vault-anchor"]
+	path = vault-anchor
+	url = https://github.com/dev-vasi/vault-anchor.git
