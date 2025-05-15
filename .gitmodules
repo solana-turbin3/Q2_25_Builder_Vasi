@@ -10,3 +10,9 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/dev-vasi/anchor-escrow.git
+[submodule "external/anchor-amm"]
+	path = external/anchor-amm
+	url = https://github.com/dev-vasi/anchor-amm
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/dev-vasi/anchor-amm
