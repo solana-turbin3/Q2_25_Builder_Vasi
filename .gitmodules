@@ -19,3 +19,6 @@
 [submodule "nft-marketplace"]
 	path = nft-marketplace
 	url = https://github.com/dev-vasi/nft-marketplace
+[submodule "nft-staking"]
+	path = nft-staking
+	url = https://github.com/dev-vasi/nft-staking
