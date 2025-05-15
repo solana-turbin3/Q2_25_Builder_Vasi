@@ -16,3 +16,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = https://github.com/dev-vasi/anchor-amm
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = https://github.com/dev-vasi/nft-marketplace
