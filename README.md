@@ -22,9 +22,15 @@ Vault contract built with Anchor for secure storage and controlled withdrawal of
 Getting Started
 
 Clone the repositories individually or use:
+
 git clone --recurse-submodules https://github.com/Turbin3/<main-repo>.git
+
 Install dependencies:
+
 anchor install
+
 Build and test:
+
 anchor build
+
 anchor test
